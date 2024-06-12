@@ -1,0 +1,96 @@
+{
+  "status": 200,
+  "data": {
+    "next_to_go_ids": [
+      "2e9d9880-dd26-43df-bace-50e4680d143d",
+      "5cebe53c-76f2-488e-bdba-7fb1d9a24bf1"
+    ],
+    "race_summaries": {
+      "2e9d9880-dd26-43df-bace-50e4680d143d": {
+        "race_id": "2e9d9880-dd26-43df-bace-50e4680d143d",
+        "race_name": "Race 6",
+        "race_number": 6,
+        "meeting_id": "ca11a498-4ea1-494c-87fe-f5ced19a2978",
+        "meeting_name": "Swindon Bags",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1718019240
+        },
+        "race_form": {
+          "distance": 476,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "ROCK IT RAMBO (4) was below best last time at this track (16.01) in a OR, finishing a 6 length sixth. Has nine wins already from this trap. Has the ability and looks a key chance here. ASHWAY SAMMY (2) ran a solid 28.72 when placed over 476m at this track last start in an A3. Rates a leading chance if runs up to latest. DAISYS LASTDANCE (6) could manage only fourth at this track last time but turned heads when posting a powerful 28.55 over 476m at this track the start prior. Top win two back and rates a key player again. DISTANT IAN (3) can sneak into the finish with the right run.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Swindon Bags\",\"state\":\"UK\",\"country\":\"UK\",\"number\":6,\"race_name\":\"Race 6\",\"time\":\"2024-06-10T11:34:00Z\",\"class\":\"A3\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":729},\"localised_prizemonies\":{\"AUD\":{\"total_value\":729},\"NZD\":{\"total_value\":787}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"All Weather\",\"group\":\"\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "ROCK IT RAMBO (4) was below best last time at this track (16.01) in a OR, finishing a 6 length sixth. Has nine wins already from this trap. Has the ability and looks a key chance here. ASHWAY SAMMY (2) ran a solid 28.72 when placed over 476m at this track last start in an A3. Rates a leading chance if runs up to latest. DAISYS LASTDANCE (6) could manage only fourth at this track last time but turned heads when posting a powerful 28.55 over 476m at this track the start prior. Top win two back and rates a key player again. DISTANT IAN (3) can sneak into the finish with the right run."
+        },
+        "venue_id": "a46b9f0b-45b0-45ec-9e9a-1652c551f0bf",
+        "venue_name": "Swindon Bags",
+        "venue_state": "UK",
+        "venue_country": "UK"
+      },
+      "5cebe53c-76f2-488e-bdba-7fb1d9a24bf1": {
+        "race_id": "5cebe53c-76f2-488e-bdba-7fb1d9a24bf1",
+        "race_name": "Sandowngreyhounds.com.au Damsels Dash",
+        "race_number": 9,
+        "meeting_id": "d582d9d0-4358-41a9-9be7-f506b8f763ca",
+        "meeting_name": "Sandown Park",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1718019300
+        },
+        "race_form": {
+          "distance": 515,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+            "name": "OCAST",
+            "short_name": "ocast",
+            "icon_uri": "OCAST"
+          },
+          "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+          "race_comment": "MAY SO DREAMING (7) was a winner two back when racing on speed but drifted back latest and safely held when 7th and beaten 13 lengths at this track (30.86). Has ability and is a key runner. ZELDA FAROS (4) was unwanted in betting last start but proved too quick with an all-the-way win over 500m at Bendigo in a T3 RSTW, scoring by 0.6 lengths (28.33). Recorded the quickest time on the card last start. Shapes as a top winning chance on latest effort. CATCH A RAINBOW (2) comes off an average run last start when fifth at this track over 515m behind Abraxas Bale (30.69) in a Restricted WIN. Was in the money the start prior. Expected to run well. BRAEMAR SHEENA (5) can measure up with the right run.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Sandown Park\",\"state\":\"VIC\",\"country\":\"AUS\",\"number\":9,\"race_name\":\"Sandowngreyhounds.com.au Damsels Dash\",\"time\":\"2024-06-10T11:35:00Z\",\"class\":\"Grade 5\",\"start_type\":\"\",\"prizemonies\":{\"1st\":2230,\"2nd\":690,\"3rd\":345,\"4th\":75,\"5th\":0,\"6th\":0,\"7th\":0,\"8th\":0,\"total_value\":3340},\"localised_prizemonies\":{\"AUD\":{\"total_value\":3340},\"NZD\":{\"total_value\":3607}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "MAY SO DREAMING (7) was a winner two back when racing on speed but drifted back latest and safely held when 7th and beaten 13 lengths at this track (30.86). Has ability and is a key runner. ZELDA FAROS (4) was unwanted in betting last start but proved too quick with an all-the-way win over 500m at Bendigo in a T3 RSTW, scoring by 0.6 lengths (28.33). Recorded the quickest time on the card last start. Shapes as a top winning chance on latest effort. CATCH A RAINBOW (2) comes off an average run last start when fifth at this track over 515m behind Abraxas Bale (30.69) in a Restricted WIN. Was in the money the start prior. Expected to run well. BRAEMAR SHEENA (5) can measure up with the right run."
+        },
+        "venue_id": "069d069b-b7aa-44a1-a484-64e9701a09f9",
+        "venue_name": "Sandown Park",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      }
+    }
+  },
+  "message": "Next 2 races from each category"
+}

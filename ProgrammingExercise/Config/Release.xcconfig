@@ -1,0 +1,5 @@
+BASE_URL = api.neds.com.au
+
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = RELEASE
+
+INFOPLIST_FILE = ProgrammingExercise/Info.plist

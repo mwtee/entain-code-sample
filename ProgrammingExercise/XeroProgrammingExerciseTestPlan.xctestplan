@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "97DCB578-DB3D-4B3E-B1EE-5A666F56B003",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:XeroProgrammingExercise.xcodeproj",
+        "identifier" : "13A61E9B2460C89A00445A02",
+        "name" : "XeroProgrammingExerciseTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:XeroProgrammingExercise.xcodeproj",
+        "identifier" : "0212F9142C0215D500ABD8F9",
+        "name" : "XeroProgrammingExerciseSnapshotTests"
+      }
+    }
+  ],
+  "version" : 1
+}

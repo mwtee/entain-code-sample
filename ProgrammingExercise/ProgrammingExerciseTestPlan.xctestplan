@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "458ECF58-28F2-48CC-9929-E8D047F01B91",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:ProgrammingExercise.xcodeproj",
+        "identifier" : "13A61E9B2460C89A00445A02",
+        "name" : "ProgrammingExerciseTests"
+      }
+    }
+  ],
+  "version" : 1
+}
